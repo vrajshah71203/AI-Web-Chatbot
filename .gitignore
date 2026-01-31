@@ -1,0 +1,14 @@
+# Environment / secrets
+.env
+
+# Local servers
+node_modules/
+.npm/
+.dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
